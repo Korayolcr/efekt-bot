@@ -1,0 +1,19 @@
+{
+  "name": "korayefektbot",
+  "version": "0.0.1",
+  "description": "koray yaptı https://discord.gg/9bAPrtdkCg",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "koray",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-image-generation": "^1.4.7",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "wio.db": "^4.0.15"
+  }
+}
